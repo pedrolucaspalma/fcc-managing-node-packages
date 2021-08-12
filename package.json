@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Jane Doe",
+	"author" : "Pedro Lucas Barros",
 	"description": "A project that does something awesome",
 	"keywords": ["awesome", "disruptive", "freecodecamp"],
 	"license": "MIT",
