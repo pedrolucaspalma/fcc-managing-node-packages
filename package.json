@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Jane Doe",
 	"description": "A project that does something awesome",
-	"keywords": ["awesome", "disruptive", "freecodecamp"],
+	"keywords": ["awesome", "disruptive", "freecodecamp", "git test"],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
